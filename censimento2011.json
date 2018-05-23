@@ -1,0 +1,274 @@
+[
+{
+"Regione":"Piemonte",
+"Femmine italiane":2066480,
+"Femmine straniere":192444,
+"Femmine totali":2258930,
+"Maschi italiani":1938080,
+"Maschi stranieri":166904,
+"Maschi totali":2104990,
+"Italiani":4004570,
+"Stranieri":359348,
+"Totale popolazione":4363920
+}
+,
+{
+"Regione":"Valle d'Aosta",
+"Femmine italiane":60212,
+"Femmine straniere":4733,
+"Femmine totali":64945,
+"Maschi italiani":58175,
+"Maschi stranieri":3686,
+"Maschi totali":61861,
+"Italiani":118387,
+"Stranieri":8419,
+"Totale popolazione":126806
+}
+,
+{
+"Regione":"Lombardia",
+"Femmine italiane":4503450,
+"Femmine straniere":488199,
+"Femmine totali":4991650,
+"Maschi italiani":4253410,
+"Maschi stranieri":459089,
+"Maschi totali":4712500,
+"Italiani":8756860,
+"Stranieri":947288,
+"Totale popolazione":9704150
+}
+,
+{
+"Regione":"Veneto",
+"Femmine italiane":2255680,
+"Femmine straniere":236850,
+"Femmine totali":2492530,
+"Maschi italiani":2144200,
+"Maschi stranieri":220478,
+"Maschi totali":2364680,
+"Italiani":4399880,
+"Stranieri":457328,
+"Totale popolazione":4857210
+}
+,
+{
+"Regione":"Friuli Venezia Giulia",
+"Femmine italiane":580207,
+"Femmine straniere":50753,
+"Femmine totali":630960,
+"Maschi italiani":541899,
+"Maschi stranieri":46126,
+"Maschi totali":588025,
+"Italiani":1122110,
+"Stranieri":96879,
+"Totale popolazione":1218980
+}
+,
+{
+"Regione":"Liguria",
+"Femmine italiane":767176,
+"Femmine straniere":61546,
+"Femmine totali":828722,
+"Maschi italiani":692102,
+"Maschi stranieri":49870,
+"Maschi totali":741972,
+"Italiani":1459280,
+"Stranieri":111416,
+"Totale popolazione":1570690
+}
+,
+{
+"Regione":"Emilia Romagna",
+"Femmine italiane":2005930,
+"Femmine straniere":241042,
+"Femmine totali":2246970,
+"Maschi italiani":1884170,
+"Maschi stranieri":210994,
+"Maschi totali":2095160,
+"Italiani":3890100,
+"Stranieri":452036,
+"Totale popolazione":4342140
+}
+,
+{
+"Regione":"Toscana",
+"Femmine italiane":1736590,
+"Femmine straniere":174166,
+"Femmine totali":1910760,
+"Maschi italiani":1613760,
+"Maschi stranieri":147681,
+"Maschi totali":1761440,
+"Italiani":3350360,
+"Stranieri":321847,
+"Totale popolazione":3672200
+}
+,
+{
+"Regione":"Umbria",
+"Femmine italiane":411350,
+"Femmine straniere":48861,
+"Femmine totali":460211,
+"Maschi italiani":385203,
+"Maschi stranieri":38854,
+"Maschi totali":424057,
+"Italiani":796553,
+"Stranieri":87715,
+"Totale popolazione":884268
+}
+,
+{
+"Regione":"Marche",
+"Femmine italiane":723518,
+"Femmine straniere":71857,
+"Femmine totali":795375,
+"Maschi italiani":684594,
+"Maschi stranieri":61350,
+"Maschi totali":745944,
+"Italiani":1408110,
+"Stranieri":133207,
+"Totale popolazione":1541320
+}
+,
+{
+"Regione":"Lazio",
+"Femmine italiane":2636360,
+"Femmine straniere":229381,
+"Femmine totali":2865740,
+"Maschi italiani":2440950,
+"Maschi stranieri":196202,
+"Maschi totali":2637150,
+"Italiani":5077300,
+"Stranieri":425583,
+"Totale popolazione":5502890
+}
+,
+{
+"Regione":"Abruzzo",
+"Femmine italiane":635531,
+"Femmine straniere":37381,
+"Femmine totali":672912,
+"Maschi italiani":603687,
+"Maschi stranieri":30710,
+"Maschi totali":634397,
+"Italiani":1239220,
+"Stranieri":68091,
+"Totale popolazione":1307310
+}
+,
+{
+"Regione":"Molise",
+"Femmine italiane":156196,
+"Femmine straniere":4670,
+"Femmine totali":160866,
+"Maschi italiani":149441,
+"Maschi stranieri":3353,
+"Maschi totali":152794,
+"Italiani":305637,
+"Stranieri":8023,
+"Totale popolazione":313660
+}
+,
+{
+"Regione":"Campania",
+"Femmine italiane":2883680,
+"Femmine straniere":87343,
+"Femmine totali":2971030,
+"Maschi italiani":2733360,
+"Maschi stranieri":62418,
+"Maschi totali":2795780,
+"Italiani":5617050,
+"Stranieri":149761,
+"Totale popolazione":5766810
+}
+,
+{
+"Regione":"Puglia",
+"Femmine italiane":2043100,
+"Femmine straniere":45724,
+"Femmine totali":2088820,
+"Maschi italiani":1926790,
+"Maschi stranieri":36956,
+"Maschi totali":1963740,
+"Italiani":3969890,
+"Stranieri":82680,
+"Totale popolazione":4052570
+}
+,
+{
+"Regione":"Basilicata",
+"Femmine italiane":287824,
+"Femmine straniere":7433,
+"Femmine totali":295257,
+"Maschi italiani":277284,
+"Maschi stranieri":5495,
+"Maschi totali":282779,
+"Italiani":565108,
+"Stranieri":12928,
+"Totale popolazione":578036
+}
+,
+{
+"Regione":"Calabria",
+"Femmine italiane":968314,
+"Femmine straniere":36564,
+"Femmine totali":1004880,
+"Maschi italiani":924927,
+"Maschi stranieri":29245,
+"Maschi totali":954172,
+"Italiani":1893240,
+"Stranieri":65809,
+"Totale popolazione":1959050
+}
+,
+{
+"Regione":"Sicilia",
+"Femmine italiane":2518930,
+"Femmine straniere":65216,
+"Femmine totali":2584150,
+"Maschi italiani":2358960,
+"Maschi stranieri":59799,
+"Maschi totali":2418760,
+"Italiani":4877890,
+"Stranieri":125015,
+"Totale popolazione":5002900
+}
+,
+{
+"Regione":"Sardegna",
+"Femmine italiane":820458,
+"Femmine straniere":17663,
+"Femmine totali":838121,
+"Maschi italiani":788232,
+"Maschi stranieri":13009,
+"Maschi totali":801241,
+"Italiani":1608690,
+"Stranieri":30672,
+"Totale popolazione":1639360
+}
+,
+{
+"Regione":"Bolzano",
+"Femmine italiane":235004,
+"Femmine straniere":21317,
+"Femmine totali":256321,
+"Maschi italiani":230243,
+"Maschi stranieri":18079,
+"Maschi totali":248322,
+"Italiani":465247,
+"Stranieri":39396,
+"Totale popolazione":504643
+}
+,
+{
+"Regione":"Trento",
+"Femmine italiane":244738,
+"Femmine straniere":24363,
+"Femmine totali":269101,
+"Maschi italiani":234390,
+"Maschi stranieri":21341,
+"Maschi totali":255731,
+"Italiani":479128,
+"Stranieri":45704,
+"Totale popolazione":524832
+}
+]
